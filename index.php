@@ -62,12 +62,14 @@
         <div class="col p-4 d-flex flex-column position-static">
           <strong class="d-inline-block mb-2 text-primary">PHA-82-823952</strong>
           <h3 class="mb-0">"CRACK 52"</h3>
-          <div class="mb-1 text-muted">Nov 12</div>
-          <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <div class="mb-1 text-muted"><h5>Foundation bird</h5></div>
+          <p class="card-text mb-auto">One of my foundation lines, which has Jos Van Den Broucke’s blood in its pedigree, is well known for speed and long distance flying.  It is also one of the most famous bloodlines here and in Taiwan.  This strain has been line bred since 1984, with a little infusion from Crack 52 outcross winner birds to add vigor to the blood.  Since it has been closely line bred through selective breeding for almost 30 years, this line is very easy to cross with other strain.
+
+Some of my latest outstanding winners of “Crack 52” outcross:</p>
+          <a href="https://www.advancedhobbyist.com/introducing-our-bloodlines/" class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
-        <img src="assets/images/QueenMutter.jpg" width="100%" height="100%">
+        <img src="assets/images/QueenMutter.jpg" width="100%" height="50%">
 
         </div>
       </div>
@@ -75,11 +77,13 @@
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success">Design</strong>
-          <h3 class="mb-0">Post title</h3>
-          <div class="mb-1 text-muted">Nov 11</div>
-          <p class="mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <strong class="d-inline-block mb-2 text-success">RPAP-84-2101</strong>
+          <h3 class="mb-0">“FLYING MACHINE”</h3>
+          <div class="mb-1 text-muted"><h5>Foundation bird</h5></div>
+          <p class="mb-auto">One of my other foundation lines, the “Flying Machine”, is a Tacloban Champion.  It is known for its long distance crosses with other long distance lines.  This line has been line bred for almost 30 years.  It cross breeds very well with other long distance lines.
+
+Some of my latest outstanding winners out of “Flying Machine” outcross:</p>
+          <a href="https://www.advancedhobbyist.com/introducing-our-bloodlines/" class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
         <img src="assets/images/morris.jpg" width="100%" height="100%">
