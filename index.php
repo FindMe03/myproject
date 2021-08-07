@@ -196,62 +196,40 @@ Another hazard that racing pigeons encounter is flying into objects they sometim
 
 It is thought that racing pigeons rely on the Earth's magnetic field to find their way home. Some speculation has surfaced indicating that mobile phone towers may be interrupting the birds' navigation,[20] although no published research has investigated this theory.</p>
         
-        <h3>Example table</h3>
-        <p>And don't forget about tables in these posts:</p>
+        <h3>Pigeon Bloodlines</h3>
+        <p>These are the sample of some pigeon bloodlines</p>
         <table class="table">
           <thead>
             <tr>
-              <th>Name</th>
-              <th>Upvotes</th>
-              <th>Downvotes</th>
+              <th>Name of owner</th>
+              <th>Ring no.</th>
+              <th>Breed</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>Alice</td>
-              <td>10</td>
-              <td>11</td>
+              <td>Andre Lietaer</td>
+              <td>3002709-02</td>
+              <td>Stichelbauts</td>
             </tr>
             <tr>
-              <td>Bob</td>
-              <td>4</td>
-              <td>3</td>
+              <td>Jozef Van den Broucke</td>
+              <td>3002710-02</td>
+              <td>Van den Broucke</td>
             </tr>
             <tr>
-              <td>Charlie</td>
-              <td>7</td>
-              <td>9</td>
+              <td>Victor Fabry</td>
+              <td>1000621/60</td>
+              <td>Meulemans</td>
             </tr>
           </tbody>
-          <tfoot>
-            <tr>
-              <td>Totals</td>
-              <td>21</td>
-              <td>23</td>
-            </tr>
-          </tfoot>
+          
         </table>
 
-        <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
+        <p>This is only a sample pigeon fanciers and breed.</p>
       </article>
 
-      <article class="blog-post">
-        <h2 class="blog-post-title">New feature</h2>
-        <p class="blog-post-meta">December 14, 2020 by <a href="#">Chris</a></p>
 
-        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
-        <ul>
-          <li>First list item</li>
-          <li>Second list item with a longer description</li>
-          <li>Third list item to close it out</li>
-        </ul>
-        <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
-      </article>
-
-      <nav class="blog-pagination" aria-label="Pagination">
-        <a class="btn btn-outline-primary" href="#">Older</a>
-        <a class="btn btn-outline-secondary disabled" href="#" tabindex="-1" aria-disabled="true">Newer</a>
-      </nav>
 
     </div>
 
@@ -259,7 +237,7 @@ It is thought that racing pigeons rely on the Earth's magnetic field to find the
       <div class="position-sticky" style="top: 2rem;">
         <div class="p-4 mb-3 bg-light rounded">
           <h4 class="fst-italic">About</h4>
-          <p class="mb-0">Customize this section to tell your visitors a little bit about your publication, writers, content, or something else entirely. Totally up to you.</p>
+          <p class="mb-0">This web articles is created to simply and improve your knowledge about pigeon industry.</p>
         </div>
 
         <div class="p-4">
@@ -283,9 +261,7 @@ It is thought that racing pigeons rely on the Earth's magnetic field to find the
         <div class="p-4">
           <h4 class="fst-italic">Elsewhere</h4>
           <ol class="list-unstyled">
-            <li><a href="#">GitHub</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Facebook</a></li>
+            <li><a href="https://www.facebook.com/search/top?q=kamote%20line%20loft%20-%20zrm%20design">Facebook</a></li>
           </ol>
         </div>
       </div>
@@ -295,7 +271,6 @@ It is thought that racing pigeons rely on the Earth's magnetic field to find the
 </main>
 
 <footer class="blog-footer">
-  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
   <p>
     <a href="#">Back to top</a>
   </p>
